@@ -16,7 +16,7 @@ Deploy a microservices-based application on an EKS Kubernetes cluster using Dock
 ---
 
 ## Application Architecture
-
+![application_architecture](application-architecture.jpg)
 
 ---
 
