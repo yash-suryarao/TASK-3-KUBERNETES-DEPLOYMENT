@@ -36,7 +36,7 @@ Deploy a microservices-based application on an EKS Kubernetes cluster using Dock
 ```bash
 git clone https://github.com/yash-suryarao/TASK-3-KUBERNETES-DEPLOYMENT.git
 ```
-
+![clone_repository](images/clon-repo.png)
 
 ### 2. Create Repositories in ECR
 
