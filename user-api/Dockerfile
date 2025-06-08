@@ -1,5 +1,5 @@
 FROM node:17.9.0-slim
-LABEL maintainer="DeekshithSN"
+LABEL maintainer="YashSuryarao"
 RUN useradd userapi
 WORKDIR /app
 RUN chown userapi /app /home
