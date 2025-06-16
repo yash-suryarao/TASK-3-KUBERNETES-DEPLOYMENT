@@ -84,6 +84,13 @@ Tag and Push Docker Image:
 docker tag admin-api:v1.0 <account_id>.dkr.ecr.ap-south-1.amazonaws.com/admin-api:v1.0
 docker push <account_id>.dkr.ecr.ap-south-1.amazonaws.com/admin-api:v1.0
 ```
+![tag_image](images/admin-api-image-tag.png)
+![push_image](images/admin-api-push-image.png)
+
 Repeat for other microservices admin-ui, user-api, and user-ui.
 
-![ecr_repository](images/application-architecture.jpg)
+![ecr_repository](images/ecr-repository.png)
+
+---
+
+### Step 4. Create an Amazon EKS Cluster
